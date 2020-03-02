@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "623768789173",
+    "firebase_url": "https://breaking-the-ice-7e2fa.firebaseio.com",
+    "project_id": "breaking-the-ice-7e2fa",
+    "storage_bucket": "breaking-the-ice-7e2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623768789173:android:f83a14affd6ce576",
+        "android_client_info": {
+          "package_name": "com.breaktheice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623768789173-i4dk7otjgng8bgfbtt3tl66rep3bfccj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrG_UkPAegb13UBycT99P5GnDUbepTBJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

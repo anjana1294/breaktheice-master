@@ -1,0 +1,60 @@
+{
+  "name": "breaktheice",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ionic-native/transfer": "^3.14.0",
+    "@mapbox/react-native-mapbox-gl": "^6.1.1",
+    "axios": "^0.18.0",
+    "native-base": "^2.4.1",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "0.54.3",
+    "react-native-android-location-enabler": "^1.0.5",
+    "react-native-axios": "^0.17.1",
+    "react-native-confirmation-code-input": "^1.0.4",
+    "react-native-dash": "^0.0.8",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-fcm": "^15.0.0",
+    "react-native-fs": "^2.9.12",
+    "react-native-geolocation-service": "^1.0.4",
+    "react-native-image-lightbox": "^1.0.8",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-image-resizer": "^1.0.0",
+    "react-native-invertible-scroll-view": "^1.1.1",
+    "react-native-keyboard-aware-scroll-view": "^0.5.0",
+    "react-native-lightbox": "^0.7.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-photo-upload": "^1.2.0",
+    "react-native-photo-view": "^1.5.2",
+    "react-native-prompt": "^1.0.0",
+    "react-native-responsive-dimensions": "^1.0.2",
+    "react-native-responsive-image": "^2.3.1",
+    "react-native-simple-radio-button": "^2.7.1",
+    "react-native-sound": "^0.10.9",
+    "react-native-swipeout": "^2.3.3",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.5.8",
+    "react-navigation-slide-from-right-transition": "^1.0.4",
+    "react-redux": "^5.0.7",
+    "rn-sliding-button": "^1.1.5"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "^16.3.0-alpha.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}
